@@ -6,12 +6,12 @@ Logfile initialized
 [DEBUG] Waiting for device to be ready ...
 [TRACE] adb devices returned 1 devices/emulators
 [DEBUG] Device connected... (waited 0 seconds)
-[DEBUG] waited 0.005479 seconds on emulator to get ready
+[DEBUG] waited 0.005748 seconds on emulator to get ready
 [DEBUG] com.FAM.camara installed? True
 [INFO] Fastdev server running, deploying in Fastdev mode
 [INFO] Copying CommonJS modules...
 [INFO] Copying project resources..
-[TRACE] COPYING MODIFIED FILE: /home/addiel/Titanium Studio Workspace/camara/Resources/ui/foto.js => /home/addiel/Titanium Studio Workspace/camara/build/android/bin/assets/Resources/ui/foto.js
+[TRACE] COPYING MODIFIED FILE: /home/addiel/Titanium Studio Workspace/camara/Resources/ui/video.js => /home/addiel/Titanium Studio Workspace/camara/build/android/bin/assets/Resources/ui/video.js
 [INFO] Tiapp.xml unchanged, skipping class generation
 [DEBUG] Processing Android resource drawables
 [DEBUG] found drawable-notlong-land-hdpi splash screen at /home/addiel/Titanium Studio Workspace/camara/Resources/android/images/res-notlong-land-hdpi/default.png
@@ -28,4 +28,5 @@ Logfile initialized
 [INFO] Re-launching application ... camara
 [INFO] Launching application ... camara
 [TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.FAM.camara/.CamaraActivity }
+Warning: Activity not started, its current task has been brought to the front
 
